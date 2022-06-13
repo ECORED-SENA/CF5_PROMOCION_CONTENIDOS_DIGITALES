@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Inicio from '../../node_modules/ecored-base-pkg/src/views/Inicio.vue'
+import Inicio from '../components/Inicio.vue'
 import Curso from '../../node_modules/ecored-base-pkg/src/views/Curso.vue'
 
 Vue.use(VueRouter)
@@ -43,6 +43,24 @@ const router = new VueRouter({
           name: 'tema3',
           component: () =>
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
+        },
+        {
+          path: 'tema4',
+          name: 'tema4',
+          component: () =>
+            import(/* webpackChunkName: "tema4" */ '../views/Tema4.vue'),
+        },
+        {
+          path: 'tema5',
+          name: 'tema5',
+          component: () =>
+            import(/* webpackChunkName: "tema5" */ '../views/Tema5.vue'),
+        },
+        {
+          path: 'tema6',
+          name: 'tema6',
+          component: () =>
+            import(/* webpackChunkName: "tema6" */ '../views/Tema6.vue'),
         },
       ],
     },
