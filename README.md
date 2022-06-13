@@ -1,8 +1,8 @@
 # **sena-base-2021 v5.1.0**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **https://ecored-sena.github.io/CF5_PROMOCION_CONTENIDOS_DIGITALES/**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF5_PROMOCION_CONTENIDOS_DIGITALES/](https://ecored-sena.github.io/CF5_PROMOCION_CONTENIDOS_DIGITALES/)
 
 #
 
