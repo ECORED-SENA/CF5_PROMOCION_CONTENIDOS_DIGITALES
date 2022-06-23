@@ -16,17 +16,17 @@
     .bgs.p-4.rounded-3.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             p Conocer sobre la evolución y nacimiento de canales de información que tengan formato digital. Debe comprender el ejercicio, audiencia y alcance de los medios digitales, como, por ejemplo, blogs, sitio web, correo electrónico, redes sociales, podcast y aplicaciones móviles, entre otros.
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img2.png', alt='')
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             p Planear, diseñar y ejecutar contenidos de carácter multimedial. Con medios que presentan flexibilidad, los contenidos han ido emergiendo en formatos novedosos y técnicas de comunicación e interacción con el cliente.
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img3.png', alt='')    
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             p Medir el alcance logrado por las publicaciones. La medición en internet es fácil, además que le da valor a la presencia web de una marca, ayudándola a medir la estrategia de comunicación digital en tiempo real.
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img4.png', alt='')  
@@ -103,37 +103,37 @@
           .col-lg-6
             h4 Es inmediata
             p Hoy se vive en un mundo globalizado que va a mil kilómetros por hora, en el que se reciben diariamente una gran cantidad de datos de manera simultánea. Precisamente esa inmediatez es una característica vital que toda marca puede usar a su favor, bien sea para enviar mensajes a su público objetivo como también para hacer medición de sus resultados.  
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img14.png', alt='') 
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Es multimedia 
             p A través de los medios digitales, una marca puede personalizar sus mensajes y compartir información más valiosa para el cliente en tiempo real. Con esta característica la marca puede compartir mensajes en diferentes formatos como texto, imagen, audio, video y animación, entre otros. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img15.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Es digital
             p Utiliza de manera estratégica todas las herramientas del ecosistema digital como medios de comunicación, para compartir información empresarial a los clientes potenciales, bien sea personalizado o a través de una comunidad virtual.
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img16.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Es hipertextual
             p Admite crear, agregar, enlazar y compartir mensajes de distintas fuentes a través de hipervínculos que enlazan a un sitio web donde el cliente pueda realizar una compra, leer un artículo, ampliar una foto, ver un video, suscribirse, registrarse, seguir en redes sociales, etc. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img17.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Es reticular
             p Se refiere a un grupo de usuarios que interactúan entre sí a través de documentos colaborativos o diversos dispositivos digitales. Esta característica permite que cualquiera pueda compartir información generando y generar áreas donde se pueda debatir, opinar, interactuar y discernir. Permite que el usuario interactúe con los documentos compartidos y que los pueda compartir a sus contactos. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img18.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Es interactiva
             p La empresa puede tener una retroalimentación de parte de los clientes en el proceso comunicacional. Se da cuando el emisor (marca) y el receptor (cliente) conversan, intercambian datos y se produce como mínimo una comunicación bidireccional a través de medios digitales.
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img19.png', alt='')                                                                       
     .row.justify-content-center.align-items-center.py-5       
       .col-auto.d-none.d-lg-block.p-0

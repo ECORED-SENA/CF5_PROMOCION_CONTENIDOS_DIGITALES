@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Teoría del color
-    .bg7.p-5.d-none.d-lg-block.mb-5
+    .bg7.p-5.d-none.d-lg-block.mb-5.rounded-3
       .row.justify-content-start.align-items-center.p-5
         .col-lg-11  
           .row.justify-content-start.align-items-center
@@ -57,7 +57,7 @@
       Separador 
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 2.2  Círculo cromático
-      .row.justify-content-start.align-items-center        
+      .row.justify-content-start.align-items-center.mb-4        
         .col-auto.d-none.d-lg-block.p-0.ps-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img36.png', alt='')       
         .col-lg-11
@@ -202,7 +202,7 @@
     .row.justify-content-start.align-items-center.mb-5        
       .col-auto.d-none.d-lg-block.p-0.ps-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img55.png', alt='')       
-      .col-lg-10
+      .col-lg-11
         p(data-aos="fade-down").mb-0 El modelo de color RGB es usado con mayor frecuencia para imágenes, contenidos y elementos gráficos que requieran ser reproducidos en medios digitales. No obstante, puede ser usado en sistemas de impresión, como por ejemplo la prensa, ya que por lo general el papel periódico posee menor calidad, no siendo posible la impresión en policromía (CMYK).         
 
     p(data-aos="fade-down").mb-5 Las imágenes RGB poseen un total de 24 bits por pixel y utilizan 3 canales, uno por color. El valor de los canales fluctúa entre 1 y 255.

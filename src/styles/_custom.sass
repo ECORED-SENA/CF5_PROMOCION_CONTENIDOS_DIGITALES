@@ -144,6 +144,9 @@
 .bg-red
   background-color: #D92303
 
+.b-rad
+  border-radius: 0px
+
 .tabs-a__tab
   background-color: #E6E6E6
 .tabs-a.color-acento-botones .tabs-a__tab__selected
@@ -183,7 +186,7 @@
       .linea-tiempo-d
         &__item
           &__content
-            background-color: #C3D9F8 !important
+            background-color: #AFC5E4 !important
             &__title
               font-weight: $base-bold-font-weight
           &__number
@@ -226,7 +229,7 @@
   .tarjeta
     border-radius: 5px
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-  background-color: #C3D9F8 !important
+  background-color: #AFC5E4 !important
   color: #12263F
 .linea-tiempo-d__item__number
   background-color: #F6F6F6 !important 
@@ -273,7 +276,7 @@
 
 .bg9
   position: relative
-  .row, figure, p, h3, .titulo-sexto.color-primario, .bgs
+  .row, figure, p, h3, .titulo-segundo.color-acento-contenido, .bgs, h2
     position: relative
   &::before
     content: ""
@@ -285,7 +288,9 @@
     background-image: url('../assets/curso/temas/img116.png')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center top  
+    background-position: center top
+    @media (max-width: $bp-max-sm )
+      background-size: 100% 92%       
 
 .bg9-1
   background-image: url('../assets/curso/temas/img118.png')    
@@ -323,10 +328,12 @@
   position: relative
   overflow: hidden
   width: 100%
-  min-height: 400px
+  min-height: 600px
   background-size: cover
   background-position: center
   background-repeat: no-repeat
+  @media (max-width: $bp-max-sm )
+    min-height: 670px
   &__content
     position: absolute
     width: 100%
@@ -351,16 +358,18 @@
     .tarjeta-up__content
       transform: translateY(0%)
       p
-        opacity: 1  
+        opacity: 1 
 
 .tarjeta-up2
   position: relative
   overflow: hidden
   width: 100%
-  min-height: 400px
+  min-height: 600px
   background-size: cover
   background-position: center
   background-repeat: no-repeat
+  @media (max-width: $bp-max-sm )
+    min-height: 670px
   &__content
     position: absolute
     width: 100%
@@ -401,7 +410,9 @@
     background-image: url('../assets/curso/temas/img151.png')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center      
+    background-position: center
+    @media (max-width: $bp-max-sm )
+      background-size: 100% 88%       
 
 .tarjeta-up3
   position: relative
@@ -464,6 +475,7 @@
   background-color: #133D60  
 .pasos-b__header__item__dot
   border: 3px solid #E8E8E8
+  background-color: #FFFFFF
 .pasos-b__header__btn--left:hover, .pasos-b__header__btn--right:hover 
   border-color: #FEE734
 .pasos-b__header__btn--left, .pasos-b__header__btn--right   
@@ -486,3 +498,16 @@
     background-size: 100% auto  
     background-repeat: no-repeat
     background-position: center 
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-sm )
+    width: 25px
+    height: 25px
+
+.slyder-a__bullets__item    
+  @media (max-width: $bp-max-sm )
+    width: 8px
+    height: 8px  
+
+.accesibilidad
+  z-index: 2    

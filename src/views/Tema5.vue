@@ -9,9 +9,9 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
         p(data-aos="fade-down") Pérez (2014) afirma que justo antes del envío de las diferentes piezas gráficas a litografía o imprenta, se hace necesario hacer una revisión o comprobación de los archivos. Son detalles como el modo de color 
-          span.b (RGB para prensa o medios digitales o CMYK para impresión litográfica)
+          span.b #[b (RGB para prensa o medios digitales o CMYK para impresión litográfica)]
           span , tamaño, líneas de corte (por donde pasa la guillotina cortando el papel), líneas de dobles (por donde se doblan las páginas, por ejemplo, en plegables), e incluso el troquel 
-          span.b (cortes en la forma de una pieza que no son rectos, sino que tienen formas redondeadas o diferentes)
+          span.b #[b (cortes en la forma de una pieza que no son rectos, sino que tienen formas redondeadas o diferentes)]
           span . Al archivo que ya tiene todos estos detalles organizados se le conoce como “arte final” y ya está listo para ser entregado a producción, es decir, se puede comenzar el proceso de impresión.    
         .row.justify-content-center.align-items-center
           .col-lg-8
@@ -23,7 +23,7 @@
 
                 img.img-a.img-t.my-3.d-block.d-lg-none(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')                              
             p(data-aos="fade-down").mt-3 El 
-              span.b “arte final” 
+              span.b #[b “arte final”] 
               span es conocido como el fichero o el archivo que además de tener el diseño, la diagramación y composición que se desea imprimir bajo un sistema de impresión, tiene también todos los detalles y factores que hacen del archivo un producto terminado digitalmente y listo para ser enviado a proceso de impresión. El arte final, entonces, es la preparación previa del archivo que sirve para garantizar el resultado que se desea a la hora de imprimir el proyecto de manera litográfica.              
           .col-lg-4.d-none.d-lg-block 
             img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')
@@ -94,7 +94,7 @@
             .tarjeta-up__content.color-primario.p-3
               h4.mb-4 Abierto y editable (propio de programas como Illustrator o InDesign)
               p Es el proceso de empaquetamiento de los archivos, lo cual se refiere a la compilación del archivo original donde se encuentra la maquetación del diseño de la pieza gráfica, junto con el resto de archivos usados, como los son las imágenes y las fuentes tipográficas, para poder obtener una correcta impresión. En el empaquetamiento de los archivos, bien sea desde Illustrator o InDesign, se hace entrega del archivo original del arte final (“AI” para Illustrator e “Indd” para InDesign); una copia exportada en formato PDF, una carpeta con las fuentes usadas en el archivo y una carpeta con las imágenes. Esta forma de hacer entrega de un arte final protege a la empresa para que las fuentes y las imágenes sean las mismas usadas en el arte final. Y para que la imprenta pueda ver a través del PDF cómo debe quedar el diseño finalizado e impreso.
-        .col-lg-6.mb-3.mb-lg-0
+        .col-lg-6.mb-3.mb-lg-0.col-md-8
           .tarjeta-up2(:style="{'background-image': `url(${require('@/assets/curso/temas/img148.png')})`}")
             .tarjeta-up2__content.color-secundario.p-3
               h4.mb-4 Cerrado y no editable (formato pdf)

@@ -121,7 +121,7 @@
             img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img173.png', alt='')          
           .col-lg-8
             .row.justify-content-start.align-items-center      
-              .col-auto.d-none.d-lg-block.p-0.ps-3
+              .col-2.d-none.d-lg-block.p-0.ps-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img172.png', alt='')       
               .col-lg-10
                 p(data-aos="fade-down").mb-0 Es por esto que un eficaz contenido de marca permite a cualquier empresa añadirles a sus productos un valor agregado que difiere con los productos de la competencia, que a veces son bastante tradicionales.

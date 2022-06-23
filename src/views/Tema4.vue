@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p(data-aos="fade-down") Con el 
-              span.b diseño gráfico se debe lograr una experiencia por parte del cliente, 
+              span.b #[b diseño gráfico se debe lograr una experiencia por parte del cliente,] 
               span es por ello que los profesionales del área tienen como fin captar la atención del público objetivo, entregando de manera atractiva y natural cualquier mensaje. Con el paso de los años y las décadas, y gracias a las nuevas tecnologías, el diseño gráfico ha ido evolucionando al mundo digital con el cual las marcas han aprovechado para posicionarse a través de redes sociales, sitios web, blogs y todo el ecosistema digital.
             p(data-aos="fade-down") Esta es una disciplina tan amplia que tiene la potestad de interactuar con muchas otras (publicidad, comunicación y mercadeo, por ejemplo), pero que a la vez, trabaja autónomamente. Su tarea básica es la de dar a conocer y promocionar una marca, con sus productos y servicios.               
           .col-lg-4
@@ -23,9 +23,9 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img81.png', alt='')       
           .col-lg-10
             p(data-aos="fade-down").mb-0 
-              span.b Todo lo que comunique un mensaje visual es diseño gráfico. 
+              span.b #[b Todo lo que comunique un mensaje visual es diseño gráfico.] 
               span En la actualidad ha cobrado vital importancia gracias al ecosistema digital que ha permitido la expansión de todo tipo de contenidos visuales, usando todas sus herramientas como medios de comunicación 
-              span.b (redes sociales, blogs, foros, sitios web, correo electrónico, etc.).
+              span.b #[b (redes sociales, blogs, foros, sitios web, correo electrónico, etc.).]
           
       .col-lg-3
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img80.png', alt='')   
@@ -50,55 +50,55 @@
           .col-lg-6
             h4 Diseño editorial 
             p Maquetación de libros, periódicos, revistas, folletos ilustrativos, plegables, etc. Piezas gráficas donde hay gran cantidad de texto, que pasa de columna en columna y de página en página. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img83.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de campañas publicitarias 
             p Creación de piezas gráficas en varios medios de comunicación (masivos y alternativos) con unidad visual, de tal forma que se pueda identificar el concepto o la idea sin importar el medio. Esto se logra cuidando el uso de los colores, las fuentes tipográficas, el lenguaje, la diagramación y el concepto como tal.  
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img84.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de <i>packaging</i> 
             p También conocido como diseño tridimensional o de empaques y envases. Rama del diseño que se encarga de diseñar las etiquetas que van en empaques, envases, latas, cajas, envoltorios y demás embalajes que sirven para contener, proteger y transportar los productos.  
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img85.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de identidad corporativa 
             p Diseño de la imagen visual de una marca, de los rasgos que la harán diferente a la competencia y reconocida por los consumidores. Su diseño está directamente relacionado con la filosofía empresarial (misión, visión y valores corporativos), además de sus objetivos y su segmentación. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img86.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de señalética 
             p Creación de un método sintetizado de comunicación visual a través de un grupo de símbolos (señales) que sirven para dirigir, ubicar o guiar, orientar a las personas dentro de las instalaciones de cualquier tipo de empresa (fábricas, almacenes, supermercados, centros comerciales, aeropuertos, etc.). 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img87.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de sitio web 
             p Layout o diseño de páginas en línea que conforman un web site (sitio web), y que se centra en la producción, imagen y diagramación del contenido compartido en cada una de las páginas del sitio. Las páginas son creadas usando lenguajes HTML (hipertexto usado para constituir y desplegar un sitio web y sus respectivas páginas o menús) o XML (lenguaje con el que se puede definir un grupo de reglas que codifican los diferentes documentos que tenga el sitio web). También está el CSS, que desde la parte visual de los sitios es usado para hacerlos ver atractivos.  
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img88.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de multimedia 
             p Creación de contenidos dinámicos que posibilitan que los consumidores interactúen con ellos, como por ejemplo, recursos como animaciones y con botones o hipervínculos que llevan a las personas a ver un video, una imagen, un sitio web, etc., creando piezas gráficas vanguardistas. Se caracteriza por combinar texto, videos, fotos, programación, audio y animaciones, todo de manera muy atractiva a través de un soporte digital. 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img89.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño audiovisual 
             p Diseño que, a través de técnicas audiovisuales, tales como la grabación de imagen en movimiento, sonido y elementos animados (stop motion, 2D o 3D), crea videos impactantes que llenan las pupilas de los espectadores. El video es el formato más usado. Es una rama del diseño fundamental en la televisión, en el cine, en el mercadeo, en la publicidad (comerciales de televisión), en el desarrollo de videojuegos y también en la web (blogs, banners, videoclips, etc). 
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img90.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño web móvil 
             p Es la rama más nueva del diseño. Es parecido al diseño web pero enfocado en telefonía celular. Su objetivo es crear un diseño web responsive, es decir, que el diseño se adapte a cualquier dispositivo donde sea visto un sitio web (celular, tableta, portátil, computador de escritorio) entregando una experiencia para el navegante.  
-          .col-lg-6
+          .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img91.png', alt='') 
 
     Separador 
@@ -161,37 +161,37 @@
     .bgs.p-4.rounded-3.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Smudge 
             p Propia de Photoshop a través de la herramienta “dedo”, que al pasarla por encima de una imagen mueve y retoca sus pixeles logrando resultados fantásticos. Esto se logra configurando la herramienta como “cepillo o pincel” apropiado para el efecto que se quiera dar. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img100.png', alt='')
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Máscaras de recorte 
             p Grupo de capas en las que se usa una máscara. La capa base precisa los límites visibles de todas las capas. Ejemplo, poseer la forma en la capa base, una foto en la capa intermedia y un mensaje u otra imagen en la capa de arriba. Según sea el efecto, la foto y el texto o la otra imagen, pueden tomar la opacidad de la capa base opacidad.
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img101.png', alt='') 
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Máscara de capa 
             p Habitualmente usada para esconder áreas de una imagen, por ejemplo, introduciendo dicha imagen dentro de un texto, pero ocultando todo lo que hay por fuera de este. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img102.png', alt='') 
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Capas de ajuste
             p Técnica que sirve para modificar la saturación y el tono de imagen por capas. Permite, a través de las capas, hacer que una misma imagen tenga partes en blanco y negro (o escala de grises) y partes a color; o hacer efectos desde la curva tonal, la saturación, el matiz, etc. Lo ideal es saber fusionar bien estos efectos para obtener un excelente resultado tratando siempre de conservar la imagen original en caso de necesitarla para hacer otra reforma.
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img103.png', alt='') 
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Filtros
             p Son muy usuales porque con ellos se logran efectos bastante llamativos e impactantes, desde el envejecimiento de una foto hasta lograr una apariencia artística de a imagen. Photoshop es el programa que mejores filtros brinda dando muchísimas alternativas de conceptualización y uso a los creativos. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img104.png', alt='')                                                         
         .row.justify-content-center.align-items-center
-          .col-lg-7
+          .col-lg-6
             h4 Mood Board
             p Técnica que es muy usada en Ilustrator e InDesign y que sirve para crear una buena cantidad de collages de forma rápida y efectiva. Traducido al español como “tablero de inspiración” esta técnica se popularizó en el diseño gráfico porque presenta una gran versatilidad de diseños, que pueden depender de la finalidad de la pieza gráfica: portafolio de productos, presentación de marca, detalles arquitectónicos, decoración de interiores, estudios de mercado, etc. 
           .col-lg-5
@@ -408,7 +408,7 @@
       .col-lg-3
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img129.png', alt='')      
       .col-lg-9
-        .bg6.p-3(data-aos="flip-down")
+        .bg6.p-3.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La diagramación es, entonces, el arte de organizar los elementos que una pieza usará para dejar un mensaje a su público objetivo. Es la distribución de la composición donde existe la jerarquía en los elementos, la cual se basa en un método visual que sea seductor para el público, que sea de carácter práctico y donde se pueda el grado de importancia en los elementos que hacen parte de la diagramación. 
         p(data-aos="fade-down") La composición, por su lado, es vital para la diagramación porque es la que se encarga de equilibrar todos los elementos dentro de cualquier pieza gráfica, logrando la expresión de sensaciones a través de un orden armonioso de los elementos. Tan importante es la composición en la diagramación que es la que se debe encargar de transmitir una idea de forma directa y simple. Por eso, es vital saber cuáles son los elementos que se van a incluir dentro del diseño de una pieza gráfica y, además, conocer de qué forma se van a combinar para diseñar una distribución compositiva que sea atractiva. A la hora de componer, por ejemplo, un anuncio o un plegable, se deben tener en cuenta aspectos relevantes como el material, el tamaño, el formato, los soportes o incluso el tiempo, en el caso de los audiovisuales. 
         .bloque-texto-b.color-secundario.px-4(data-aos="fade-down")

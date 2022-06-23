@@ -67,22 +67,22 @@
         .col-lg-4.mb-4(data-aos="fade-left")
           .tarjeta.tarjeta-avatar-slide.color-acento-botones.p-4.h-100
             .tarjeta-avatar-slide__img.mb-4
-              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img68.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img68_1.png', alt='Texto que describa la imagen' )
+              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img68.png', alt='Texto que describa la imagen' )
             h4.b #[b Adobe Spark]
             p.s.mt-4 Es una aplicación gratuita (software libre) y de compra de la compañía Adobe Inc., que admite la fácil creación de gráficos, sitios web y edición de vídeos de corta duración para redes sociales. Esta aplicación dispone, además, de plantillas de alta calidad para combinar el diseño y la diagramación con fotografías y textos. En la versión gratis da acceso a imágenes e íconos.
         .col-lg-4.mb-4(data-aos="fade-down")
           .tarjeta.tarjeta-avatar-slide.color-acento-botones.p-4.h-100
             .tarjeta-avatar-slide__img.mb-4
-              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img69.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img69_1.png', alt='Texto que describa la imagen' )
+              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img69.png', alt='Texto que describa la imagen' )
             h4.b #[b Gimp]
             p.s.mt-4  Software libre de mapa de bits que sirve para retocar, componer y editar imágenes (ilustraciones y fotos). Se le conoce como la versión web y gratis de Photoshop porque es muy similar en formato y contenidos de herramientas. Para usarlo se debe descargar de internet para instalarlo en el computador.
         .col-lg-4.mb-4(data-aos="fade-right")
           .tarjeta.tarjeta-avatar-slide.color-acento-botones.p-4.h-100
             .tarjeta-avatar-slide__img.mb-4
-              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img70.png', alt='Texto que describa la imagen' )
               .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img70_1.png', alt='Texto que describa la imagen' )
+              .tarjeta-avatar-slide__img__item: img.imga-a.img-t(src='@/assets/curso/temas/img70.png', alt='Texto que describa la imagen' )
             h4.b #[b Bancos gratuitos de imágenes y videos]
             p.s.mt-4 Resultan ser un complemento vital y oportuno para todos los anteriores programas porque ayudan a la creación de las piezas gráficas. A través de estos bancos se pueden descargar gratuitamente imágenes bien sean fotográficas, ilustradas o en gráficos, además de videos de excelente calidad. Ejemplos: Pexels, Pixabay, Unsplash, Freepik, Flickr, Morguefile, Videvo o Free Images. 
 
