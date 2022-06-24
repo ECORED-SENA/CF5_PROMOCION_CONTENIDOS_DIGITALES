@@ -93,7 +93,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/NtXnXMx6TcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 
     p(data-aos="fade-down").mb-5 Para aprender a sacarle el máximo provecho a la comunicación digital, las siguientes son las principales características que esta área posee:          
 
