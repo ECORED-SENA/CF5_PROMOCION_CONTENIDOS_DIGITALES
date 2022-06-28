@@ -35,7 +35,7 @@
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img82.png', alt='')                   
       .col-lg-8            
         p(data-aos="fade-down") Es una profesión que usa imágenes, vídeos, textos y elementos compositivos para lograr una comunicación visual y gráfica que sea fácil de comprender, con el objetivo de transmitir la información que una marca desea entregar a sus clientes para impactarlos y atraer su atención.  A través de esta disciplina es que una marca puede crear su identidad corporativa de tal forma que pueda ser reconocida, recordada y bien percibida por la sociedad, 
-          span.b es en este punto donde el diseño gráfico tiene mayor relación con profesiones como la publicidad, la comunicación corporativa y el mercadeo, 
+          span.b #[b es en este punto donde el diseño gráfico tiene mayor relación con profesiones como la publicidad, la comunicación corporativa y el mercadeo, ]  
           span áreas que deben trabajar interdisciplinariamente para beneficio de las empresas.
         .row.justify-content-center.align-items-center
           .col-lg-3.d-block.d-lg-none
