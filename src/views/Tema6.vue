@@ -11,7 +11,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p(data-aos="fade-down") Nieto, Castro, Espinosa, y Narváez (1988) explican que, para que una empresa pueda posicionarse en el mercado, ser reconocida y además apetecida, debe comenzar por crear una estrategia de marca. El objetivo para que una empresa tenga una estrategia de marca es lograr que los clientes siempre la elijan, sin importar qué tan fuerte sea la competencia. La estrategia de marca debe certificar la lealtad de los clientes a largo plazo, generando rentabilidad para la empresa. 
-            p(data-aos="fade-down") A través de las estrategias de marca las empresas pueden pasar de tener marcas desconocidas en el mercado a ser marcas fuertes y con gran impacto en el consumidor. La marca se debe recordar de forma positiva por parte de su público objetivo para poder aumentar su valor. Con esta finalidad es que la estrategia de marca puede proporcionar pautas que van a servir para direccionar el marketing mix de la compañía.            
+            p(data-aos="fade-down") A través de las estrategias de marca las empresas pueden pasar de tener marcas desconocidas en el mercado a ser marcas fuertes y con gran impacto en el consumidor. La marca se debe recordar de forma positiva por parte de su público objetivo para poder aumentar su valor. Con esta finalidad es que la estrategia de marca puede proporcionar pautas que van a servir para direccionar el <i>marketing mix</i> de la compañía.            
           .col-lg-4
             img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img157.png', alt='')
 
@@ -59,7 +59,7 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                          
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/B4gnyflN-ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                          
 
     Separador 
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -105,13 +105,9 @@
       Separador 
       #t_6_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 6.3  Beneficios 
-      p(data-aos="fade-down").mb-5 Nieto, Castro, Espinosa, y Narváez (1988) mencionan que el más importante beneficio de trabajar con la identidad de marca es que logra la fidelización de los clientes con producto mediante la elaboración de una imagen clara y memorable. Sin importar cual sea el negocio, siempre va a existir alguna solución que se adapte a la marca para que su identidad haga su trabajo. Pero, a la hora del establecimiento de un plan de acción que ayude a la identidad de marca, la fidelización no es el único beneficio. A continuación, algunos otros beneficios que se pueden obtener gracias a un buen trabajo en la identidad de marca (ver figura 1):
+      p(data-aos="fade-down").mb-5 Nieto, Castro, Espinosa, y Narváez (1988) mencionan que el más importante beneficio de trabajar con la identidad de marca es que logra la fidelización de los clientes con producto mediante la elaboración de una imagen clara y memorable. Sin importar cuál sea el negocio, siempre va a existir alguna solución que se adapte a la marca para que su identidad haga su trabajo. Pero, a la hora del establecimiento de un plan de acción que ayude a la identidad de marca, la fidelización no es el único beneficio. A continuación, algunos otros beneficios que se pueden obtener gracias a un buen trabajo en la identidad de marca (ver figura 1):
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8
-            //- .titulo-sexto.color-acento-contenido
-            //-   h5 Figura 1.
-            //-   span Beneficios  
-            img.img-a.img-t(src='@/assets/curso/temas/img171.svg', alt='')
+        img.img-a.img-t(src='@/assets/curso/temas/img171.svg', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
@@ -153,7 +149,7 @@
               p Es el momento de analizar resultados (métrica e indicadores) y registrar lo que estuvo a la altura y lo que puede ser apto para mejora. Con este registro se puede evitar la realización de los mismos errores a futuro y apelar a soluciones que se han trabajado con buenos resultados en el pasado cuando se encuentren problemas similares.
           .row(numero="6" titulo="Realización de ajustes necesarios")
             .col-11
-              p Se refiere al desarrollo de un plan de mejoramiento. Finalmente se deben realizar los ajustes que se requieran en la estrategia de marca. Por ejemplo, si en el plan de acción se incluyó el uso de WhatsApp Business como medio de comunicación con el público objetivo, pero finalmente se reciben más mensajes de los que los que se pueden responder, entonces se debe considerar la ampliación del equipo que atiende la aplicación para que se pueda dar respuesta oportuna a los clientes. (Nieto, Castro, Espinosa, y Narváez, 1988)       
+              p Se refiere al desarrollo de un plan de mejoramiento. Finalmente se deben realizar los ajustes que se requieran en la estrategia de marca. Por ejemplo, si en el plan de acción se incluyó el uso de WhatsApp Business como medio de comunicación con el público objetivo, pero finalmente se reciben más mensajes de los que se pueden responder, entonces se debe considerar la ampliación del equipo que atiende la aplicación para que se pueda dar respuesta oportuna a los clientes. (Nieto, Castro, Espinosa, y Narváez, 1988)       
 </template>
 
 <script>

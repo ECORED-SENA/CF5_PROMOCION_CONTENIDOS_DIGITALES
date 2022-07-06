@@ -23,7 +23,7 @@
 
                 img.img-a.img-t.my-3.d-block.d-lg-none(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')                              
             p(data-aos="fade-down").mt-3 El 
-              span.b #[b “arte final”] 
+              span.b #[b “arte final” ] 
               span es conocido como el fichero o el archivo que además de tener el diseño, la diagramación y composición que se desea imprimir bajo un sistema de impresión, tiene también todos los detalles y factores que hacen del archivo un producto terminado digitalmente y listo para ser enviado a proceso de impresión. El arte final, entonces, es la preparación previa del archivo que sirve para garantizar el resultado que se desea a la hora de imprimir el proyecto de manera litográfica.              
           .col-lg-4.d-none.d-lg-block 
             img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img137.png', alt='')
@@ -64,13 +64,13 @@
           .row.justify-content-center.align-items-center
             .col-lg-7
               h4 Las imágenes 
-              p Es vital que todas las imágenes usadas en los proyectos de impresión offset o litográfica deben tener como mínimo 300 o 400 píxeles por pulgada (ppp o dots per inch en inglés - dpi) porque así se garantiza una excelente impresión. Se recomienda siempre guardar las imágenes en formatos que sean compatibles con la imprenta, como por ejemplo JPEG y TIFF en máxima calidad y nada de compresión. Para formatos digitales (celulares, tabletas, portátiles y computadores de escritorio), las imágenes pueden tener entre 72 a 96 ppp. Si la imagen es más bien pequeña, puede con 72 ppp, pero si la imagen en más grande, es mejor en 96 ppp. Estas imágenes si se fueran a imprimir, se verían pixeladas, pero como se va n a exhibir a través de una pantalla, no hay problema y el pixel pasa desapercibido. Finalmente, para medio prensa, se recomienda que las imágenes tengan en 96 y 150 ppp.  
+              p Es vital que todas las imágenes usadas en los proyectos de impresión offset o litográfica deben tener como mínimo 300 o 400 píxeles por pulgada (ppp o dots per inch en inglés - dpi) porque así se garantiza una excelente impresión. Se recomienda siempre guardar las imágenes en formatos que sean compatibles con la imprenta, como por ejemplo JPEG y TIFF en máxima calidad y nada de compresión. Para formatos digitales (celulares, tabletas, portátiles y computadores de escritorio), las imágenes pueden tener entre 72 a 96 ppp. Si la imagen es más bien pequeña, puede con 72 ppp, pero si la imagen en más grande, es mejor en 96 ppp. Estas imágenes si se fueran a imprimir, se verían pixeladas, pero como se van a exhibir a través de una pantalla, no hay problema y el pixel pasa desapercibido. Finalmente, para medio prensa, se recomienda que las imágenes tengan en 96 y 150 ppp.  
             .col-lg-5
               img.img-a.img-t.my-3(src='@/assets/curso/temas/img143.png', alt='')  
           .row.justify-content-center.align-items-center
             .col-lg-7
               h4 Los troqueles 
-              p Son líneas trazadas en el interior del diseño, que se destinan para marcar las áreas por donde debe cortar la guillotina en formas no convencionales (curvas, estrelladas, redondas, etc.). Estas líneas no se imprimen, sólo sirven para mostrar por dónde va el corte. Se recomienda que sean elaboradas con un contorno de color llamativo (rojo, amarillo, fucsia) o también que tengan un fondo plano también llamativo, para que, de esta manera la imprenta comprenda fácilmente que se trata del troquel y puedan ser borrados antes de ir a impresión. Se puede usar en el diseño de volantes, etiquetas y empaques, principalmente. 
+              p Son líneas trazadas en el interior del diseño, que se destinan para marcar las áreas por donde debe cortar la guillotina en formas no convencionales (curvas, estrelladas, redondas, etc.). Estas líneas no se imprimen, solo sirven para mostrar por dónde va el corte. Se recomienda que sean elaboradas con un contorno de color llamativo (rojo, amarillo, fucsia) o también que tengan un fondo plano también llamativo, para que, de esta manera la imprenta comprenda fácilmente que se trata del troquel y puedan ser borrados antes de ir a impresión. Se puede usar en el diseño de volantes, etiquetas y empaques, principalmente. 
             .col-lg-5
               img.img-a.img-t.my-3(src='@/assets/curso/temas/img144.png', alt='')  
           .row.justify-content-center.align-items-center

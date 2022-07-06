@@ -76,7 +76,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: '<i>Software</i> especializado en diseño	10',
+            titulo: '<i>Software</i> especializado en diseño',
             hash: 't_3_1',
           },
           {
@@ -91,7 +91,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Herramientas de diseño',
+        titulo: 'El diseño gráfico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -270,7 +270,7 @@ export default {
     {
       termino: '<em>Pixel</em>',
       significado:
-        'Es el más pequeño elemento que tiene una imagen digital. En una pantalla de computador, celular o tableta, al hacer zoom sobre la imagen se podrán ver lo píxeles alineados formando la imagen. La unión o el conjunto de varios píxeles conforman la imagen.',
+        'Es el más pequeño elemento que tiene una imagen digital. En una pantalla de computador, celular o tableta, al hacer zoom sobre la imagen se podrán ver los píxeles alineados formando la imagen. La unión o el conjunto de varios píxeles conforman la imagen.',
     },
     {
       termino: 'Posicionamiento SEO',
@@ -312,7 +312,7 @@ export default {
     },
     {
       referencia:
-        'Nieto, J. D., Castro, G. B., Espinosa, E., & Narváez, A. E. (1988). Rotulación : Diseño De Alfabetos. Rótulos Especiales. Signos - Símbolos. Logotipos . Servicio Nacional De Aprendizaje (SENA).',
+        'Nieto, J. D., Castro, G. B., Espinosa, E., & Narváez, A. E. (1988). Rotulación: Diseño De Alfabetos. Rótulos Especiales. Signos - Símbolos. Logotipos. Servicio Nacional De Aprendizaje (SENA).',
     },
     {
       referencia: 'Pérez, D. (2014). Elaboración Del Arte Final. IC Editorial.',

@@ -43,7 +43,7 @@
         .col-lg-9
           p(data-aos="fade-down") El color es un componente vital en el diseño y creación de cualquier mensaje visual, no se trata de un atributo escueto que envuelve la forma de las cosas. Es cierto que, sin el color, las formas de las cosas permanecen, pero su importancia radica en que el mensaje cobra vida a través del color, y puede ser empleado con la intensión de generar sensaciones y experiencias. 
           .bg3.p-3.mb-4(data-aos="fade-left")
-            p(data-aos="fade-down").mb-0 Profesiones como la publicidad y el diseño gráfico representan las marcas y sus productos en un anuncio a través de la forma, pero le impregnan el color para impactar visualmente. El color es la traducción visual de los sentidos humanos, gracias a la cantidad de colores que se pueden usar, con el color se puede dar sensación de frio o de calor, de dulce o salado, de agrio o amargo, de liso o rugoso.       
+            p(data-aos="fade-down").mb-0 Profesiones como la publicidad y el diseño gráfico representan las marcas y sus productos en un anuncio a través de la forma, pero le impregnan el color para impactar visualmente. El color es la traducción visual de los sentidos humanos, gracias a la cantidad de colores que se pueden usar, con el color se puede dar sensación de frío o de calor, de dulce o salado, de agrio o amargo, de liso o rugoso.       
           .row.justify-content-start.align-items-center        
             .col-auto.d-none.d-lg-block.p-0.ps-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.png', alt='')       
@@ -139,7 +139,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img49.png', alt='')
             .col-lg-8.text-start
               h4(data-aos="fade-down") La saturación
-              p(data-aos="fade-down") Se relaciona con la pureza cromática o la falta de disolución con el color blanco. Compone la pureza del color respecto al gris, dependiendo de la cantidad de blanco que tenga presente un color. A mayor saturación, el color es más puro, pero a menor saturación, el color es más grisáseo. Un color totalmente desaturado, es gris del todo.  
+              p(data-aos="fade-down") Se relaciona con la pureza cromática o la falta de disolución con el color blanco. Compone la pureza del color respecto al gris, dependiendo de la cantidad de blanco que tenga presente un color. A mayor saturación, el color es más puro, pero a menor saturación, el color es más grisáceo. Un color totalmente desaturado, es gris del todo.  
           .row.justify-content-center.align-items-center
             .col-lg-8
               h4(data-aos="fade-down") El brillo
@@ -175,7 +175,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-10                    
           .bg3.p-3.mb-5
-            p.mb-0 Los conceptos de "cálido" y "frío" son usados para distinguir a aquellos colores que connotan estas cualidades; son términos designados para dar la sensación de “temperatura de color". La diferencia visual entre tonos cálidos y fríos pueden llegar a ser bastante tenues. Como ejemplo, una hoja blanca puede verse más cálida o más fría a causa de una pequeñísima presencia de rojo o azul. Sucede lo mismo con el gris y el negro.
+            p.mb-0 Los conceptos de "cálido" y "frío" son usados para distinguir a aquellos colores que connotan estas cualidades; son términos designados para dar la sensación de "temperatura de color". La diferencia visual entre tonos cálidos y fríos pueden llegar a ser bastante tenues. Como ejemplo, una hoja blanca puede verse más cálida o más fría a causa de una pequeñísima presencia de rojo o azul. Sucede lo mismo con el gris y el negro.
 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

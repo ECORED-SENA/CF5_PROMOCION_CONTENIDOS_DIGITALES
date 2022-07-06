@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p(data-aos="fade-down") Con el 
-              span.b #[b diseño gráfico se debe lograr una experiencia por parte del cliente,] 
+              span.b #[b diseño gráfico se debe lograr una experiencia por parte del cliente, ] 
               span es por ello que los profesionales del área tienen como fin captar la atención del público objetivo, entregando de manera atractiva y natural cualquier mensaje. Con el paso de los años y las décadas, y gracias a las nuevas tecnologías, el diseño gráfico ha ido evolucionando al mundo digital con el cual las marcas han aprovechado para posicionarse a través de redes sociales, sitios web, blogs y todo el ecosistema digital.
             p(data-aos="fade-down") Esta es una disciplina tan amplia que tiene la potestad de interactuar con muchas otras (publicidad, comunicación y mercadeo, por ejemplo), pero que a la vez, trabaja autónomamente. Su tarea básica es la de dar a conocer y promocionar una marca, con sus productos y servicios.               
           .col-lg-4
@@ -23,7 +23,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img81.png', alt='')       
           .col-lg-10
             p(data-aos="fade-down").mb-0 
-              span.b #[b Todo lo que comunique un mensaje visual es diseño gráfico.] 
+              span.b #[b Todo lo que comunique un mensaje visual es diseño gráfico. ] 
               span En la actualidad ha cobrado vital importancia gracias al ecosistema digital que ha permitido la expansión de todo tipo de contenidos visuales, usando todas sus herramientas como medios de comunicación 
               span.b #[b (redes sociales, blogs, foros, sitios web, correo electrónico, etc.).]
           
@@ -79,7 +79,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño de sitio web 
-            p Layout o diseño de páginas en línea que conforman un web site (sitio web), y que se centra en la producción, imagen y diagramación del contenido compartido en cada una de las páginas del sitio. Las páginas son creadas usando lenguajes HTML (hipertexto usado para constituir y desplegar un sitio web y sus respectivas páginas o menús) o XML (lenguaje con el que se puede definir un grupo de reglas que codifican los diferentes documentos que tenga el sitio web). También está el CSS, que desde la parte visual de los sitios es usado para hacerlos ver atractivos.  
+            p <i>Layout</i> o diseño de páginas en línea que conforman un <i>web site</i> (sitio web), y que se centra en la producción, imagen y diagramación del contenido compartido en cada una de las páginas del sitio. Las páginas son creadas usando lenguajes HTML (hipertexto usado para constituir y desplegar un sitio web y sus respectivas páginas o menús) o XML (lenguaje con el que se puede definir un grupo de reglas que codifican los diferentes documentos que tenga el sitio web). También está el CSS, que desde la parte visual de los sitios es usado para hacerlos ver atractivos.  
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img88.png', alt='')
         .row.justify-content-center.align-items-center
@@ -91,13 +91,13 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño audiovisual 
-            p Diseño que, a través de técnicas audiovisuales, tales como la grabación de imagen en movimiento, sonido y elementos animados (stop motion, 2D o 3D), crea videos impactantes que llenan las pupilas de los espectadores. El video es el formato más usado. Es una rama del diseño fundamental en la televisión, en el cine, en el mercadeo, en la publicidad (comerciales de televisión), en el desarrollo de videojuegos y también en la web (blogs, banners, videoclips, etc). 
+            p Diseño que, a través de técnicas audiovisuales, tales como la grabación de imagen en movimiento, sonido y elementos animados (stop motion, 2D o 3D), crea videos impactantes que llenan las pupilas de los espectadores. El video es el formato más usado. Es una rama del diseño fundamental en la televisión, en el cine, en el mercadeo, en la publicidad (comerciales de televisión), en el desarrollo de videojuegos y también en la web (blogs, banners, videoclips, etc.). 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img90.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diseño web móvil 
-            p Es la rama más nueva del diseño. Es parecido al diseño web pero enfocado en telefonía celular. Su objetivo es crear un diseño web responsive, es decir, que el diseño se adapte a cualquier dispositivo donde sea visto un sitio web (celular, tableta, portátil, computador de escritorio) entregando una experiencia para el navegante.  
+            p Es la rama más nueva del diseño. Es parecido al diseño web pero enfocado en telefonía celular. Su objetivo es crear un diseño web <i>responsive</i>, es decir, que el diseño se adapte a cualquier dispositivo donde sea visto un sitio web (celular, tableta, portátil, computador de escritorio) entregando una experiencia para el navegante.  
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img91.png', alt='') 
 
@@ -107,7 +107,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-down") Para un profesional del diseño gráfico se hace vital aprender a dominar sus distintas técnicas, las cuales pueden variar dependiendo de las herramientas que se utilicen (manuales como lápiz, colores, plumas y pinceles; o digitales como los programas de diseño CoreDRAW, Illustrator, Photoshop, After Effects, Premiere, InDesign).
+        p(data-aos="fade-down") Para un profesional del diseño gráfico se hace vital aprender a dominar sus distintas técnicas, las cuales pueden variar dependiendo de las herramientas que se utilicen (manuales como lápiz, colores, plumas y pinceles; o digitales como los programas de diseño <i>CoreDRAW</i>, Illustrator, Photoshop, After Effects, Premiere, InDesign).
         p(data-aos="fade-down") De igual manera, es vital tener claro cuáles serían los sistemas de impresión a usar en cualquier proyecto creativo. Por eso, a continuación, se analizarán algunas de las técnicas más comunes del diseño gráfico y de qué forma serían útiles para ser aplicadas en cualquier proyecto.      
       .col-lg-6      
         img.img-a.img-t.my-3(src='@/assets/curso/temas/img92.png', alt='') 
@@ -138,12 +138,12 @@
         .col-lg-5
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img96.png', alt='') 
 
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Foreshortening")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Foreshortening</i>")
         .col-lg-7
           p Escorzo en español. Inicialmente esta técnica fue usada para el diseño de personajes en distintas perspectivas y con diferentes estados de ánimo y movimientos. Pero, debido a su capacidad de personificación se ha ampliado a otras áreas, siendo en la actualidad una de las más impactantes técnicas de diseño gráfico con las que un creativo puede impactar con sus proyectos.  
         .col-lg-5
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img97.png', alt='') 
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Overlap")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Overlap</i>")
         .col-lg-7
           p Esta técnica radica en la superposición de diferentes dibujos con el uso del sombreado para darle mayor dinamismo a tus diseños. Hoy en día, se usa en el ámbito del diseño gráfico, diseño editorial y diseño publicitario.  
         .col-lg-5
@@ -156,7 +156,7 @@
         .row.justify-content-start.align-items-center(data-aos="flip-down")
           .col-lg-8
             h4.title.text-center.p-2 Técnicas de diseño gráfico con programas informáticos    
-        p(data-aos="fade-down") Los software ya analizados, CorelDRAW, Illustrator, Photoshop, After Effects, Premiere e InDesign son algunos de los programas informáticos que brindan una gran cantidad de herramientas para emplear distintas técnicas de diagramación, dibujo e ilustración gráfica que sirven para la generación de efectos visuales como, por ejemplo, una foto envejecida o el aumento o disminución en su saturación. Algunas de las técnicas más usadas a través de estos programas son las siguientes:
+        p(data-aos="fade-down") Los <i>software</i> ya analizados, CorelDRAW, Illustrator, Photoshop, After Effects, Premiere e InDesign son algunos de los programas informáticos que brindan una gran cantidad de herramientas para emplear distintas técnicas de diagramación, dibujo e ilustración gráfica que sirven para la generación de efectos visuales como, por ejemplo, una foto envejecida o el aumento o disminución en su saturación. Algunas de las técnicas más usadas a través de estos programas son las siguientes:
 
     .bgs.p-4.rounded-3.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -192,8 +192,8 @@
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img104.png', alt='')                                                         
         .row.justify-content-center.align-items-center
           .col-lg-6
-            h4 Mood Board
-            p Técnica que es muy usada en Ilustrator e InDesign y que sirve para crear una buena cantidad de collages de forma rápida y efectiva. Traducido al español como “tablero de inspiración” esta técnica se popularizó en el diseño gráfico porque presenta una gran versatilidad de diseños, que pueden depender de la finalidad de la pieza gráfica: portafolio de productos, presentación de marca, detalles arquitectónicos, decoración de interiores, estudios de mercado, etc. 
+            h4 <i>Mood Board</i>
+            p Técnica que es muy usada en Illustrator e InDesign y que sirve para crear una buena cantidad de collages de forma rápida y efectiva. Traducido al español como “tablero de inspiración” esta técnica se popularizó en el diseño gráfico porque presenta una gran versatilidad de diseños, que pueden depender de la finalidad de la pieza gráfica: portafolio de productos, presentación de marca, detalles arquitectónicos, decoración de interiores, estudios de mercado, etc. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img105.png', alt='') 
 
@@ -206,7 +206,7 @@
         p(data-aos="fade-down") Consiste en el uso creativo y recursivo de un grupo de líneas de guía que organizan el área de trabajo con una buena distribución. Las líneas de guía forman una retícula con espacios que pueden tener formas cuadradas y rectangulares. En caso de querer una forma diferente (circular, ovalada, poligonal, etc.), se puede hacer convirtiendo la forma en línea de guía. Una vez cuadrada la retícula, se procede a importar las imágenes para ubicarlas en los espacios y a agregar al diseño textos y demás elementos compositivos que se requieran.     
         .row.justify-content-center.align-items-center
           .col-lg-8
-            p(data-aos="fade-down") Es importante lograr que la retícula suministre armonía, orden, uniformidad y relación con el proyecto creativo. La técnica del mood board, por ejemplo, es especial para ser trabajada con el uso de retículas.
+            p(data-aos="fade-down") Es importante lograr que la retícula suministre armonía, orden, uniformidad y relación con el proyecto creativo. La técnica del <i>mood board</i>, por ejemplo, es especial para ser trabajada con el uso de retículas.
             .bg6.p-3(data-aos="flip-down")
               p(data-aos="fade-down").mb-0 El uso de la retícula es vital para la diagramación porque ayuda en la selección y ubicación de los espacios donde irán los elementos de la pieza gráfica. Si se desea ubicar un titular, la retícula hará que este proceso sea sencillo de desempeñar. La retícula se basa en el concepto de alineación, es decir, ubicar los elementos justificados por las líneas guía.              
           .col-lg-4
@@ -267,7 +267,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7
               h4 Retículas de Columnas 
-              p Muy especial para el diseño de revistas, folletos ilustrativos, plegables, etc., en los que los textos pasan por columnas de página en página Se acomoda en columnas verticales con el objetivo de distribuir mejor la información para una mejor lectura. Las columnas dependen unas de otras y pueden ser muy flexibles. Su ancho depende del tamaño de la página y pueden diseñarse entre dos y 6 columnas por páginas. Dos columnas para tamaños pequeños y 6 columnas para periódicos de tamaño tradicional (aproximadamente 58 cms. de alto por 38 cms. de ancho). Se pueden reservar filas para titulares y entradillas, zonas espaciales para imágenes y marcadores para textos secundario.  
+              p Muy especial para el diseño de revistas, folletos ilustrativos, plegables, etc., en los que los textos pasan por columnas de página en página Se acomoda en columnas verticales con el objetivo de distribuir mejor la información para una mejor lectura. Las columnas dependen unas de otras y pueden ser muy flexibles. Su ancho depende del tamaño de la página y pueden diseñarse entre dos y 6 columnas por páginas. Dos columnas para tamaños pequeños y 6 columnas para periódicos de tamaño tradicional (aproximadamente 58 cm de alto por 38 cm de ancho). Se pueden reservar filas para titulares y entradillas, zonas espaciales para imágenes y marcadores para textos secundarios.  
             .col-lg-5
               img.img-a.img-t.my-3(src='@/assets/curso/temas/img113.svg', alt='')
 
@@ -384,7 +384,7 @@
                   .bloque-texto-b.color-secundario.px-4(data-aos="fade-down")
                     .bloque-texto-b__texto
                       i.fas.fa-quote-left
-                      p.mb-0 La identidad corporativa y la imagen visual de una marca deben tener en cuenta la segmentación, es decir, el público al que van dirigidos sus productos y servicios, también conocidos como “buyer personas”. No es lo mismo dirigirse a un público joven de 25 años en promedio que a un público más adulto de aproximadamente 60 años de edad. Se debe adecuar la identidad y la imagen al público objetivo porque de esta manera se trabaja mejor la coherencia y el contexto del mensaje, también se construye con mayor fortaleza la reputación de la marca.              
+                      p.mb-0 La identidad corporativa y la imagen visual de una marca deben tener en cuenta la segmentación, es decir, el público al que van dirigidos sus productos y servicios, también conocidos como “<i>buyer</i> personas”. No es lo mismo dirigirse a un público joven de 25 años en promedio que a un público más adulto de aproximadamente 60 años de edad. Se debe adecuar la identidad y la imagen al público objetivo porque de esta manera se trabaja mejor la coherencia y el contexto del mensaje, también se construye con mayor fortaleza la reputación de la marca.              
                       p #[b (Tamayo, 2014).]   
                       i.fas.fa-quote-right  
     .bg9-2
@@ -396,7 +396,7 @@
           p(data-aos="fade-down") Cumpa (2002) explica que la diagramación y la composición son temas relacionados, esencialmente, a los fundamentos que tiene el diseño gráfico como profesión, y en donde se analizan y se trabajan la composición, el diseño, la tipografía, las imágenes, los elementos gráficos y el color. Mediante la diagramación un diseñador se va a encargar de ordenar de la manera más adecuada todo el espacio de las diferentes piezas gráficas, de tal forma que el producto final sea atractivo para los ojos del consumidor. 
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p(data-aos="fade-down") Desde piezas impresas, hasta piezas multimediales, digitales y audiovisuales van a tener que desarrollar un trabajo de diagramación y composición para que todos los elementos que hagan parte de su diseño, se vean bien y, además, se entregue la información que la marca quiere enviar a sus clientes. La diagramación también incluye todo el proceso de producción, como por ejemplo la pre prensa (preparar los archivos para la impresión), de las diferentes piezas gráficas, antes de ser enviadas a los medios litográficos, audiovisuales o digitales. Incluye además la post prensa, momento en el cual, luego de producidas las pizas gráficas, comienza un trabajo de acabado. Por ejemplo, en los impresos, el recorte de un troquel, el laminado o esmaltado de algunas áreas de la pieza gráfica, el dobles (en el caso de los plegables), etc.
+              p(data-aos="fade-down") Desde piezas impresas, hasta piezas multimediales, digitales y audiovisuales van a tener que desarrollar un trabajo de diagramación y composición para que todos los elementos que hagan parte de su diseño, se vean bien y, además, se entregue la información que la marca quiere enviar a sus clientes. La diagramación también incluye todo el proceso de producción, como por ejemplo la pre prensa (preparar los archivos para la impresión), de las diferentes piezas gráficas, antes de ser enviadas a los medios litográficos, audiovisuales o digitales. Incluye además la post prensa, momento en el cual, luego de producidas las piezas gráficas, comienza un trabajo de acabado. Por ejemplo, en los impresos, el recorte de un troquel, el laminado o esmaltado de algunas áreas de la pieza gráfica, el doblez (en el caso de los plegables), etc.
             
             .col-lg-4
               img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img127.png', alt='')
