@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diagramación de piezas gráficas',
     descripcionCurso:
-      'La maquetación de cualquier pieza gráfica es un proceso que siempre debe tener en cuenta los conceptos de comunicación digital, teoría y psicología del color, donde el <i>software</i> usado para el diseño gráfico, la entrega del arte final a la imprenta y las estrategias que una marca debe crear para lograr su posicionamiento en el mercado. ',
+      'La maquetación de cualquier pieza gráfica es un proceso en el que se deben tener en cuenta todas las estrategias de la marca para lograr su posicionamiento en el mercado. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -218,7 +218,7 @@ export default {
     {
       tema: 'Arte final',
       referencia:
-        'Sergio Fácil. (2021). GUARDAR, EMPAQUETAR Y EXPORTAR en Adobe Illustrator / ¿Cuándo utilizarlas?[Video].',
+        'Sergio Fácil. (2021). GUARDAR, EMPAQUETAR Y EXPORTAR en Adobe Illustrator / ¿Cuándo utilizarlas? [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=4Smi2qX1L_c',
     },

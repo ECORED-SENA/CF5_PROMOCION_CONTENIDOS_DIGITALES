@@ -107,7 +107,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-down") Para un profesional del diseño gráfico se hace vital aprender a dominar sus distintas técnicas, las cuales pueden variar dependiendo de las herramientas que se utilicen (manuales como lápiz, colores, plumas y pinceles; o digitales como los programas de diseño <i>CoreDRAW</i>, Illustrator, Photoshop, After Effects, Premiere, InDesign).
+        p(data-aos="fade-down") Para un profesional del diseño gráfico se hace vital aprender a dominar sus distintas técnicas, las cuales pueden variar dependiendo de las herramientas que se utilicen (manuales como lápiz, colores, plumas y pinceles; o digitales como los programas de diseño CorelDRAW, Illustrator, Photoshop, After Effects, Premiere, InDesign).
         p(data-aos="fade-down") De igual manera, es vital tener claro cuáles serían los sistemas de impresión a usar en cualquier proyecto creativo. Por eso, a continuación, se analizarán algunas de las técnicas más comunes del diseño gráfico y de qué forma serían útiles para ser aplicadas en cualquier proyecto.      
       .col-lg-6      
         img.img-a.img-t.my-3(src='@/assets/curso/temas/img92.png', alt='') 
@@ -384,7 +384,7 @@
                   .bloque-texto-b.color-secundario.px-4(data-aos="fade-down")
                     .bloque-texto-b__texto
                       i.fas.fa-quote-left
-                      p.mb-0 La identidad corporativa y la imagen visual de una marca deben tener en cuenta la segmentación, es decir, el público al que van dirigidos sus productos y servicios, también conocidos como “<i>buyer</i> personas”. No es lo mismo dirigirse a un público joven de 25 años en promedio que a un público más adulto de aproximadamente 60 años de edad. Se debe adecuar la identidad y la imagen al público objetivo porque de esta manera se trabaja mejor la coherencia y el contexto del mensaje, también se construye con mayor fortaleza la reputación de la marca.              
+                      p.mb-0 La identidad corporativa y la imagen visual de una marca deben tener en cuenta la segmentación, es decir, el público al que van dirigidos sus productos y servicios, también conocidos como “<em>buyer</em> personas”. No es lo mismo dirigirse a un público joven de 25 años en promedio que a un público más adulto de aproximadamente 60 años de edad. Se debe adecuar la identidad y la imagen al público objetivo porque de esta manera se trabaja mejor la coherencia y el contexto del mensaje, también se construye con mayor fortaleza la reputación de la marca.              
                       p #[b (Tamayo, 2014).]   
                       i.fas.fa-quote-right  
     .bg9-2
