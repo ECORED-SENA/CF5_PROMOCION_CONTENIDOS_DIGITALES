@@ -59,7 +59,7 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/B4gnyflN-ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                          
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/2k2FZg14Yio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                          
 
     Separador 
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
