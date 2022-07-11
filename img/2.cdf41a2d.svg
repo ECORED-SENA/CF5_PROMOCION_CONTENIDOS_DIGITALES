@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.662" height="82.489" viewBox="0 0 94.662 82.489">
+  <defs>
+    <filter id="Trazado_116469" x="0" y="0" width="94.662" height="82.489" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.306"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_159210" data-name="Grupo 159210" transform="translate(11629.241 9940.88)">
+    <g transform="matrix(1, 0, 0, 1, -11629.24, -9940.88)" filter="url(#Trazado_116469)">
+      <path id="Trazado_116469-2" data-name="Trazado 116469" d="M79.465,58.43H16.256A6.724,6.724,0,0,1,9.53,51.7V11.666A6.724,6.724,0,0,1,16.256,4.94H79.465a6.724,6.724,0,0,1,6.726,6.726V51.7A6.724,6.724,0,0,1,79.465,58.43Z" transform="translate(-2.53 -4.94)" fill="#fff"/>
+    </g>
+    <rect id="Rectángulo_36741" data-name="Rectángulo 36741" width="44.071" height="69.576" rx="10" transform="translate(-11549.119 -9936.165) rotate(90)" fill="#e8f2f7"/>
+    <g id="Grupo_86197" data-name="Grupo 86197" transform="translate(-11605.131 -9929.526)">
+      <rect id="Rectángulo_36742" data-name="Rectángulo 36742" width="6.312" height="7.256" transform="translate(0 23.525)" fill="#0c487b"/>
+      <rect id="Rectángulo_36743" data-name="Rectángulo 36743" width="6.312" height="14.511" transform="translate(12.049 16.27)" fill="#0c487b"/>
+      <rect id="Rectángulo_36744" data-name="Rectángulo 36744" width="6.312" height="23.544" transform="translate(24.08 7.237)" fill="#0c487b"/>
+      <rect id="Rectángulo_36745" data-name="Rectángulo 36745" width="6.312" height="30.781" transform="translate(36.13 0)" fill="#0c487b"/>
+    </g>
+  </g>
+</svg>

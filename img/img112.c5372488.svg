@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="369.465" viewBox="0 0 255 369.465">
+  <defs>
+    <filter id="Rectángulo_38044" x="0" y="17.465" width="255" height="352" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_158838" data-name="Grupo 158838" transform="translate(8.71 -2.553)">
+    <g transform="matrix(1, 0, 0, 1, -8.71, 2.55)" filter="url(#Rectángulo_38044)">
+      <rect id="Rectángulo_38044-2" data-name="Rectángulo 38044" width="237" height="334" transform="translate(9 23.46)" fill="#fff"/>
+    </g>
+    <g id="Rectángulo_38045" data-name="Rectángulo 38045" transform="translate(14.289 45.018)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="211" height="299" stroke="none"/>
+      <rect x="0.5" y="0.5" width="210" height="298" fill="none"/>
+    </g>
+    <path id="Trazado_156540" data-name="Trazado 156540" d="M3888.453-8743.5h-182.8v-34.649" transform="translate(-3681.343 8824.277)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_156541" data-name="Trazado 156541" d="M3744.151-8610.808h-37.576v26.1" transform="translate(-3667.178 8929.091)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectángulo_38046" data-name="Rectángulo 38046" transform="translate(37.289 88.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38425" data-name="Rectángulo 38425" transform="translate(37.289 165.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38433" data-name="Rectángulo 38433" transform="translate(37.289 240.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38424" data-name="Rectángulo 38424" transform="translate(37.289 125.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38426" data-name="Rectángulo 38426" transform="translate(37.289 202.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38434" data-name="Rectángulo 38434" transform="translate(37.289 277.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38419" data-name="Rectángulo 38419" transform="translate(124.289 88.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38429" data-name="Rectángulo 38429" transform="translate(124.289 165.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38437" data-name="Rectángulo 38437" transform="translate(124.289 240.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38421" data-name="Rectángulo 38421" transform="translate(124.289 125.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38430" data-name="Rectángulo 38430" transform="translate(124.289 202.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38438" data-name="Rectángulo 38438" transform="translate(124.289 277.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="39" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38418" data-name="Rectángulo 38418" transform="translate(80.289 88.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38427" data-name="Rectángulo 38427" transform="translate(80.289 165.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38435" data-name="Rectángulo 38435" transform="translate(80.289 240.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38422" data-name="Rectángulo 38422" transform="translate(80.289 125.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38428" data-name="Rectángulo 38428" transform="translate(80.289 202.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38436" data-name="Rectángulo 38436" transform="translate(80.289 277.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38420" data-name="Rectángulo 38420" transform="translate(167.289 88.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38431" data-name="Rectángulo 38431" transform="translate(167.289 165.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38439" data-name="Rectángulo 38439" transform="translate(167.289 240.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38423" data-name="Rectángulo 38423" transform="translate(167.289 125.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38432" data-name="Rectángulo 38432" transform="translate(167.289 202.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_38440" data-name="Rectángulo 38440" transform="translate(167.289 277.018)" fill="#fff" stroke="#1169e3" stroke-width="1">
+      <rect width="40" height="35" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" fill="none"/>
+    </g>
+    <path id="Trazado_157812" data-name="Trazado 157812" d="M.952,12V2.694H4.907a6.769,6.769,0,0,1,2.168.251,2.138,2.138,0,0,1,1.082.892A2.681,2.681,0,0,1,8.563,5.3a2.484,2.484,0,0,1-.616,1.73,2.957,2.957,0,0,1-1.841.86,4.384,4.384,0,0,1,1.006.781,10.606,10.606,0,0,1,1.07,1.511L9.318,12H7.071L5.713,9.975a13.135,13.135,0,0,0-.99-1.368,1.442,1.442,0,0,0-.565-.387,3.1,3.1,0,0,0-.946-.1H2.831V12ZM2.831,6.63h1.39A7.179,7.179,0,0,0,5.91,6.516a1.012,1.012,0,0,0,.527-.394,1.212,1.212,0,0,0,.19-.7,1.116,1.116,0,0,0-.251-.759A1.151,1.151,0,0,0,5.668,4.3Q5.44,4.269,4.3,4.269H2.831ZM14.225,9.854l1.777.3a2.915,2.915,0,0,1-1.082,1.489,3.179,3.179,0,0,1-1.85.511A3.016,3.016,0,0,1,10.467,11,3.86,3.86,0,0,1,9.8,8.68a3.722,3.722,0,0,1,.876-2.625,2.885,2.885,0,0,1,2.215-.949,2.992,2.992,0,0,1,2.374.993A4.4,4.4,0,0,1,16.1,9.144H11.629a1.8,1.8,0,0,0,.432,1.235,1.35,1.35,0,0,0,1.028.441,1.092,1.092,0,0,0,.7-.229A1.411,1.411,0,0,0,14.225,9.854Zm.1-1.8a1.717,1.717,0,0,0-.4-1.177,1.287,1.287,0,0,0-1.892.022,1.646,1.646,0,0,0-.375,1.155Zm6.316-2.793V6.681H19.424V9.4a6.757,6.757,0,0,0,.035.962.392.392,0,0,0,.159.225.5.5,0,0,0,.3.089,2.307,2.307,0,0,0,.717-.171l.152,1.384a3.546,3.546,0,0,1-1.409.267,2.235,2.235,0,0,1-.87-.162,1.269,1.269,0,0,1-.568-.419,1.654,1.654,0,0,1-.251-.7,8.646,8.646,0,0,1-.057-1.257V6.681h-.819V5.259h.819V3.919l1.79-1.041v2.38ZM21.88,12V5.259h1.784V12Zm-.133-7.566.876-1.9h2l-1.746,1.9ZM31.37,7.252l-1.758.317a1.276,1.276,0,0,0-.4-.793,1.217,1.217,0,0,0-.816-.267,1.333,1.333,0,0,0-1.063.46,2.358,2.358,0,0,0-.4,1.539,2.728,2.728,0,0,0,.4,1.695,1.323,1.323,0,0,0,1.082.5,1.2,1.2,0,0,0,.832-.289,1.737,1.737,0,0,0,.457-.993l1.752.3a3.109,3.109,0,0,1-1.047,1.822,3.242,3.242,0,0,1-2.076.616,3.086,3.086,0,0,1-2.358-.933A3.618,3.618,0,0,1,25.1,8.636a3.626,3.626,0,0,1,.882-2.6,3.134,3.134,0,0,1,2.387-.93,3.256,3.256,0,0,1,1.958.53A2.936,2.936,0,0,1,31.37,7.252ZM37.159,12V10.991a2.6,2.6,0,0,1-.968.851,2.714,2.714,0,0,1-1.266.311,2.476,2.476,0,0,1-1.219-.3,1.761,1.761,0,0,1-.781-.838,3.739,3.739,0,0,1-.241-1.492V5.259h1.784v3.1a8.59,8.59,0,0,0,.1,1.742.95.95,0,0,0,.359.508,1.1,1.1,0,0,0,.66.187,1.4,1.4,0,0,0,.819-.251,1.275,1.275,0,0,0,.5-.622A7.221,7.221,0,0,0,37.032,8.1V5.259h1.784V12Zm3.5,0V2.694h1.784V12Zm4.945-4.685-1.619-.292a2.521,2.521,0,0,1,.939-1.447,3.438,3.438,0,0,1,1.98-.47,4.268,4.268,0,0,1,1.777.282,1.773,1.773,0,0,1,.822.717,3.678,3.678,0,0,1,.238,1.6l-.019,2.082a7.228,7.228,0,0,0,.086,1.311,3.826,3.826,0,0,0,.321.9H48.369q-.07-.178-.171-.527-.044-.159-.063-.209a3.216,3.216,0,0,1-.978.667,2.8,2.8,0,0,1-1.111.222,2.3,2.3,0,0,1-1.641-.565,1.878,1.878,0,0,1-.6-1.428,1.917,1.917,0,0,1,.273-1.019,1.783,1.783,0,0,1,.765-.686,5.978,5.978,0,0,1,1.419-.416A9.718,9.718,0,0,0,47.995,7.6V7.423a.924.924,0,0,0-.254-.733,1.522,1.522,0,0,0-.958-.219,1.276,1.276,0,0,0-.743.187A1.3,1.3,0,0,0,45.608,7.315Zm2.387,1.447a11.149,11.149,0,0,1-1.085.273,3.27,3.27,0,0,0-.971.311.744.744,0,0,0-.349.628.875.875,0,0,0,.279.647.975.975,0,0,0,.711.273,1.545,1.545,0,0,0,.92-.317,1.117,1.117,0,0,0,.425-.59,3.522,3.522,0,0,0,.07-.87Zm6.989-3.5h1.644v.92a2.645,2.645,0,0,1,2.1-1.073,2.263,2.263,0,0,1,1.124.267,2.049,2.049,0,0,1,.781.806,3.114,3.114,0,0,1,.958-.806,2.352,2.352,0,0,1,1.1-.267,2.446,2.446,0,0,1,1.257.3,1.847,1.847,0,0,1,.768.885,3.841,3.841,0,0,1,.184,1.4V12H63.115V8.147a2.867,2.867,0,0,0-.184-1.295.845.845,0,0,0-.762-.381,1.216,1.216,0,0,0-.7.229,1.268,1.268,0,0,0-.476.67,4.818,4.818,0,0,0-.146,1.393V12H59.059V8.306a5.124,5.124,0,0,0-.1-1.27.81.81,0,0,0-.3-.425.933.933,0,0,0-.543-.14,1.3,1.3,0,0,0-.743.222,1.219,1.219,0,0,0-.473.641,4.765,4.765,0,0,0-.143,1.39V12H54.983Zm11.28,3.275a3.647,3.647,0,0,1,.438-1.72,3.006,3.006,0,0,1,1.241-1.27,3.683,3.683,0,0,1,1.793-.438,3.366,3.366,0,0,1,2.507.993,3.432,3.432,0,0,1,.978,2.51,3.473,3.473,0,0,1-.987,2.536,3.336,3.336,0,0,1-2.485,1.006,3.915,3.915,0,0,1-1.768-.419A2.874,2.874,0,0,1,66.7,10.505,4.092,4.092,0,0,1,66.263,8.534Zm1.828.1a2.233,2.233,0,0,0,.476,1.536,1.556,1.556,0,0,0,2.345,0,2.264,2.264,0,0,0,.473-1.549,2.223,2.223,0,0,0-.473-1.523,1.556,1.556,0,0,0-2.345,0A2.233,2.233,0,0,0,68.091,8.629ZM80.8,12H79.143v-.99a2.677,2.677,0,0,1-.974.86,2.5,2.5,0,0,1-1.133.282,2.568,2.568,0,0,1-1.99-.936A3.809,3.809,0,0,1,74.217,8.6,3.764,3.764,0,0,1,75.023,6a2.628,2.628,0,0,1,2.038-.892,2.524,2.524,0,0,1,1.955.939V2.694H80.8ZM76.039,8.483a3.087,3.087,0,0,0,.3,1.562,1.348,1.348,0,0,0,1.206.7,1.313,1.313,0,0,0,1.047-.524,2.417,2.417,0,0,0,.432-1.565A2.645,2.645,0,0,0,78.6,6.982a1.326,1.326,0,0,0-1.073-.511,1.34,1.34,0,0,0-1.063.5A2.28,2.28,0,0,0,76.039,8.483ZM86.995,12V10.991a2.6,2.6,0,0,1-.968.851,2.714,2.714,0,0,1-1.266.311,2.476,2.476,0,0,1-1.219-.3,1.761,1.761,0,0,1-.781-.838,3.739,3.739,0,0,1-.241-1.492V5.259H84.3v3.1a8.59,8.59,0,0,0,.1,1.742.95.95,0,0,0,.359.508,1.1,1.1,0,0,0,.66.187,1.4,1.4,0,0,0,.819-.251,1.275,1.275,0,0,0,.5-.622A7.221,7.221,0,0,0,86.868,8.1V5.259h1.784V12Zm3.5,0V2.694h1.784V12Zm4.945-4.685-1.619-.292a2.521,2.521,0,0,1,.939-1.447,3.438,3.438,0,0,1,1.98-.47,4.268,4.268,0,0,1,1.777.282,1.773,1.773,0,0,1,.822.717,3.678,3.678,0,0,1,.238,1.6l-.019,2.082a7.228,7.228,0,0,0,.086,1.311,3.826,3.826,0,0,0,.321.9H98.2q-.07-.178-.171-.527-.044-.159-.063-.209a3.216,3.216,0,0,1-.978.667,2.8,2.8,0,0,1-1.111.222,2.3,2.3,0,0,1-1.641-.565,1.878,1.878,0,0,1-.6-1.428,1.917,1.917,0,0,1,.273-1.019,1.783,1.783,0,0,1,.765-.686A5.978,5.978,0,0,1,96.1,8.039,9.718,9.718,0,0,0,97.83,7.6V7.423a.924.924,0,0,0-.254-.733,1.522,1.522,0,0,0-.958-.219,1.276,1.276,0,0,0-.743.187A1.3,1.3,0,0,0,95.443,7.315ZM97.83,8.763a11.149,11.149,0,0,1-1.085.273,3.27,3.27,0,0,0-.971.311.744.744,0,0,0-.349.628.875.875,0,0,0,.279.647.975.975,0,0,0,.711.273,1.545,1.545,0,0,0,.92-.317,1.117,1.117,0,0,0,.425-.59,3.522,3.522,0,0,0,.07-.87ZM103.048,12h-1.784V5.259h1.657v.958a2.881,2.881,0,0,1,.765-.9,1.407,1.407,0,0,1,.771-.216,2.264,2.264,0,0,1,1.174.336L105.079,7a1.565,1.565,0,0,0-.838-.292.99.99,0,0,0-.635.206,1.41,1.41,0,0,0-.409.746,10.6,10.6,0,0,0-.149,2.26Z" transform="translate(59.289 0.018)" fill="#1169e3"/>
+  </g>
+</svg>

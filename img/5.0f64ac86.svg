@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131.816" height="109.702" viewBox="0 0 131.816 109.702">
+  <defs>
+    <filter id="Trazado_116444" x="0" y="0" width="131.816" height="109.702" filterUnits="userSpaceOnUse">
+      <feOffset dx="9" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.463"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_159212" data-name="Grupo 159212" transform="translate(11716.17 10349.248)">
+    <g transform="matrix(1, 0, 0, 1, -11716.17, -10349.25)" filter="url(#Trazado_116444)">
+      <path id="Trazado_116444-2" data-name="Trazado 116444" d="M93.17,78.452H15.086c-4.066,0-7.366-2.953-7.366-6.592V14.842c0-3.639,3.3-6.592,7.366-6.592H93.17c4.066,0,7.366,2.953,7.366,6.592V71.86C100.537,75.5,97.237,78.452,93.17,78.452Z" transform="translate(2.78 -8.25)" fill="#fff"/>
+    </g>
+    <path id="Trazado_116445" data-name="Trazado 116445" d="M13.2,70.938a1.4,1.4,0,0,1-1.478-1.3V13.547a1.4,1.4,0,0,1,1.478-1.3H91.545a1.4,1.4,0,0,1,1.478,1.3V69.641a1.4,1.4,0,0,1-1.478,1.3Z" transform="translate(-11711.635 -10355.741)" fill="#e8f2f7"/>
+    <path id="Trazado_116446" data-name="Trazado 116446" d="M15.72,63.428s1.856-7.738,5.761-8.435,4.677,7.269,11.047-6.459c5.657-12.171,10.127,2.533,16.037-3.128S60,16.24,70.422,16.24c12.8,0,15.086,47.188,15.086,47.188Z" transform="translate(-11709.877 -10353.988)" fill="#1169e3"/>
+    <path id="Trazado_116447" data-name="Trazado 116447" d="M15.72,61.014H85.509s-2.064-8.333-5.583-9.1c-3.623-.777-4.559,6.851-10.661-5.771s-10.468-13.5-16.972.36-10.023,8.06-16.022,4.534S30.019,56.063,25.7,58.524C21.377,61.014,21.466,52.119,15.72,61.014Z" transform="translate(-11709.877 -10350.149)" fill="#fee734"/>
+    <circle id="Elipse_4730" data-name="Elipse 4730" cx="4.303" cy="4.303" r="4.303" transform="translate(-11694.141 -10338.824)" fill="#0c487b"/>
+    <path id="Trazado_116448" data-name="Trazado 116448" d="M39.255,21.575H26.632a1.48,1.48,0,0,1-1.482-1.482h0a1.48,1.48,0,0,1,1.482-1.482H39.255a1.48,1.48,0,0,1,1.482,1.482h0A1.5,1.5,0,0,1,39.255,21.575Z" transform="translate(-11705.019 -10354.249)" fill="#0c487b"/>
+  </g>
+</svg>
